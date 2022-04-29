@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+   <bean class="com.aforms2web.afs.formserver.formlist.FormCollectionInfo" name="FC___access4all_STG3">
+      <property name="name">
+         <value><![CDATA[access4all_STG3]]></value>
+      </property>
+      <property name="version">
+         <value><![CDATA[1.0]]></value>
+      </property>
+      <property name="description">
+         <value><![CDATA[test]]></value>
+      </property>
+      <property name="hasMobileLayout">
+         <value><![CDATA[false]]></value>
+      </property>
+      <property name="mobileLayoutWarningState">
+         <value><![CDATA[false]]></value>
+      </property>
+      <property name="mobileLayoutWarningText">
+         <null/>
+      </property>
+      <property name="ajaxSupportState">
+         <value><![CDATA[true]]></value>
+      </property>
+      <property name="styleguideVersion">
+         <value><![CDATA[stg30]]></value>
+      </property>
+      <property name="forms">
+         <list>
+            <bean class="com.aforms2web.afs.formserver.formlist.FormInfo" name="access4all_V1_0">
+               <property name="name">
+                  <value><![CDATA[access4all]]></value>
+               </property>
+               <property name="version">
+                  <value><![CDATA[1.0]]></value>
+               </property>
+               <property name="description">
+                  <null/>
+               </property>
+               <property name="generalId">
+                  <value><![CDATA[access4all]]></value>
+               </property>
+               <property name="alias">
+                  <null/>
+               </property>
+               <property name="active">
+                  <value><![CDATA[false]]></value>
+               </property>
+               <property name="formTitle">
+                  <value><![CDATA[Aktuelle Tarife (Vertrag)]]></value>
+               </property>
+               <property name="vlb">
+                  <null/>
+               </property>
+               <property name="vlbDescription">
+                  <null/>
+               </property>
+               <property name="signatureInfo">
+                  <value><![CDATA[signatureNone]]></value>
+               </property>
+               <property name="mailConfirmation">
+                  <value><![CDATA[false]]></value>
+               </property>
+               <property name="allowedTransformations">
+                  <null/>
+               </property>
+               <property name="idEqualSig">
+                  <value><![CDATA[false]]></value>
+               </property>
+               <property name="validFrom">
+                  <null/>
+               </property>
+               <property name="validUntil">
+                  <null/>
+               </property>
+               <property name="actionBefore">
+                  <null/>
+               </property>
+               <property name="actionAfter">
+                  <null/>
+               </property>
+            </bean>
+            <bean class="com.aforms2web.afs.formserver.formlist.FormInfo" name="f1_V1_0">
+               <property name="name">
+                  <value><![CDATA[f1]]></value>
+               </property>
+               <property name="version">
+                  <value><![CDATA[1.0]]></value>
+               </property>
+               <property name="description">
+                  <null/>
+               </property>
+               <property name="generalId">
+                  <value><![CDATA[access4all]]></value>
+               </property>
+               <property name="alias">
+                  <null/>
+               </property>
+               <property name="active">
+                  <value><![CDATA[true]]></value>
+               </property>
+               <property name="formTitle">
+                  <value><![CDATA[Aktuelle Tarife (Vertrag)]]></value>
+               </property>
+               <property name="vlb">
+                  <null/>
+               </property>
+               <property name="vlbDescription">
+                  <null/>
+               </property>
+               <property name="signatureInfo">
+                  <value><![CDATA[signatureNone]]></value>
+               </property>
+               <property name="mailConfirmation">
+                  <value><![CDATA[false]]></value>
+               </property>
+               <property name="allowedTransformations">
+                  <null/>
+               </property>
+               <property name="idEqualSig">
+                  <value><![CDATA[false]]></value>
+               </property>
+               <property name="validFrom">
+                  <null/>
+               </property>
+               <property name="validUntil">
+                  <null/>
+               </property>
+               <property name="actionBefore">
+                  <null/>
+               </property>
+               <property name="actionAfter">
+                  <null/>
+               </property>
+            </bean>
+         </list>
+      </property>
+   </bean>
+</beans>

@@ -1,0 +1,107 @@
+[
+  {
+    "username": "emil",
+    "password": "a5e538955dce902b46fbb39e8dee459a62d2d43f75603ef264363e9d580d83bb",
+    "syncRights": [
+      "DEV",
+      "PROD",
+      "TEST"
+    ],
+    "partySyncRights": [
+      "DEV",
+      "PROD",
+      "TEST"
+    ],
+    "usableApplicationNames": [],
+    "managementRights": [
+      "FORMSERVER_VIEW_MANAGEMENT",
+      "FORMSERVER_VIEW_PROPERTIES",
+      "FORMSERVER_VIEW_SESSIONS"
+    ],
+    "allApplicationsAllowed": true
+  },
+  {
+    "username": "DeleteMe_admin_20220407",
+    "password": "c023cce15ffd5930612c6f66e4ebf01a3c5389c55614708ed5be8139f00e2b05",
+    "syncRights": [
+      "DEV",
+      "PROD",
+      "TEST"
+    ],
+    "partySyncRights": [
+      "DEV",
+      "PROD",
+      "TEST"
+    ],
+    "usableApplicationNames": [],
+    "managementRights": [
+      "FORMSERVER_VIEW_MANAGEMENT",
+      "FORMSERVER_VIEW_PROPERTIES",
+      "FORMSERVER_VIEW_SESSIONS"
+    ],
+    "allApplicationsAllowed": true
+  },
+  {
+    "username": "admin",
+    "password": "c382c751df2116c4b02d0d5a752e777287b7efa8eccc2f70991ab1a3a36a75d6",
+    "syncRights": [
+      "DEV",
+      "PROD",
+      "TEST"
+    ],
+    "partySyncRights": [
+      "DEV",
+      "PROD",
+      "TEST"
+    ],
+    "usableApplicationNames": [],
+    "managementRights": [
+      "FORMSERVER_VIEW_MANAGEMENT",
+      "FORMSERVER_VIEW_PROPERTIES",
+      "FORMSERVER_VIEW_SESSIONS"
+    ],
+    "allApplicationsAllowed": true
+  },
+  {
+    "username": "flo_",
+    "password": "8bddba823c7a8a3948889035a1ac9c8ed121eeb6c34fb54b701e139db27a16f6",
+    "syncRights": [
+      "DEV",
+      "PROD",
+      "TEST"
+    ],
+    "partySyncRights": [
+      "DEV",
+      "PROD",
+      "TEST"
+    ],
+    "usableApplicationNames": [],
+    "managementRights": [
+      "FORMSERVER_VIEW_MANAGEMENT",
+      "FORMSERVER_VIEW_PROPERTIES",
+      "FORMSERVER_VIEW_SESSIONS"
+    ],
+    "allApplicationsAllowed": true
+  },
+  {
+    "username": "webtest",
+    "password": "be4b3de44d04b6661eb440e2aa9e2084c0e7af60ffae956eb23f55e4ed54f7d2",
+    "syncRights": [
+      "DEV",
+      "PROD",
+      "TEST"
+    ],
+    "partySyncRights": [
+      "DEV",
+      "PROD",
+      "TEST"
+    ],
+    "usableApplicationNames": [],
+    "managementRights": [
+      "FORMSERVER_VIEW_MANAGEMENT",
+      "FORMSERVER_VIEW_PROPERTIES",
+      "FORMSERVER_VIEW_SESSIONS"
+    ],
+    "allApplicationsAllowed": true
+  }
+]
